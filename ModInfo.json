@@ -1,0 +1,14 @@
+{
+	"Id": "NotificationPresets",
+	"DisplayName": "Notification Presets",
+	"Title": "Notification Presets",
+	"Author": "dmeadows",
+	"Version": "0.1.0",
+	"Requirements": [],
+	"ManagerVersion": "0.24.0.0",
+	"AssemblyName": "NotificationPresets.dll",
+	"EntryMethod": "NotificationPresets.Main.Load",
+	"ModURL": "",
+	"HomePage": "",
+	"Description": "Early, mid and late game presets for which notifications pop up and pause the game."
+}

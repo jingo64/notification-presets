@@ -1,0 +1,34 @@
+[b]Requires Unity Mod Manager.[/b] Without it this mod won't load. Install steps are below.
+
+[h1]Notification Presets[/h1]
+Early on, every popup is interesting. By the late game you mostly care about losing control points and what your fleets are doing. This mod adds three buttons to the notification settings page that set which notifications pop up and pause the game.
+
+[h2]Features[/h2]
+[list]
+[*][b]Early game alerts[/b]: the game's defaults, minus results of missions that can't fail (e.g. Defend Interests)
+[*][b]Mid game alerts[/b]: also drops routine news, such as army movements, nations gaining claims or space programs, policy changes, councilor traits, probe arrivals and refuels
+[*][b]Late game alerts[/b]: only control points lost, cracked down or purged, coups and revolutions, fleets and habs (incoming fleets, arrivals, losses, ships completed, hab captures and attacks) and the tech-win warning
+[*]Only the Pushed Alert column changes. News feed, timer and summary settings stay as they are, so everything is still logged
+[*]You can still adjust individual notifications afterwards
+[/list]
+
+[h2]Installation[/h2]
+[olist]
+[*]Download [url=https://www.nexusmods.com/site/mods/21]Unity Mod Manager[/url] and run UnityModManager.exe. Pick Terra Invicta, choose the [b]DoorstopProxy[/b] method and click Install.
+[*][b]Linux / Steam Deck only:[/b] set this as Terra Invicta's launch option in Steam:
+[code]WINEDLLOVERRIDES="winhttp=n,b" %command%[/code]
+[*]Subscribe to this mod and start the game. "Notification Presets" should appear in the UMM window (Ctrl+F10).
+[/olist]
+
+[h2]How to use[/h2]
+Open Settings &gt; Notifications during a campaign and click one of the three buttons above the defaults buttons.
+
+[h2]Good to know[/h2]
+[list]
+[*]Notification settings are saved with each campaign, the same as when you tick them by hand, so apply a preset once per campaign stage.
+[*]Some notifications can't be changed in the game's settings either, so presets leave them alone.
+[*]Removing the mod keeps whatever settings your campaign had.
+[/list]
+
+[h2]Bugs and source[/h2]
+Source code and bug reports are on [url=https://github.com/jingo64/notification-presets]GitHub[/url].
